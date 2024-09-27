@@ -77,7 +77,7 @@ tasks:
   11-John works in a bookshop. He "" (work) there for three years.
   12-Last year we "" (go) to Finland for a holiday. We "" (stay) there for three weeks.
 4-MY ANSWERS && KEYS
-  4-played
+  4-played 
   5-did you go
   6-have you ever been
   7-washed && have washed
